@@ -9,7 +9,7 @@ Construção de uma calculadora em PHP utilizando Switch
 
   
 </div>
-<h1>Calculadora</h1>
+<h1>Resultado</h1>
 
 <img width="650px" src="./print/calculadora.png">
 
