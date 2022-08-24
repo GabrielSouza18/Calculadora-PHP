@@ -1,5 +1,5 @@
 # Calculadora PHP
-Construção de uma calculadora em PHP utilizando Switch
+Construção de uma calculadora simples em PHP utilizando Switch
 <h2>Linguagens e bibliotecas utilizadas </h2>
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">PHP
