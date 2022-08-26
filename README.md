@@ -1,11 +1,11 @@
 # Calculadora PHP
 Construção de uma calculadora simples em PHP utilizando Switch
 <h2>Linguagens e bibliotecas utilizadas </h2>
-<div style="display: inline_block"><br>
-  <br><br> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> HTML
+<div style="display: inline_block">
+  <br> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> HTML
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> CSS
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> JavaScript
-   <br><br> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> Bootstrap
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> Bootstrap
   
 
   
